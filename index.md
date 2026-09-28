@@ -1,4 +1,4 @@
-# Prénom Nom
+# Amandine Bailleul
 
 BTS SIO, option SISR (ou SLAM) — promotion 2026-2028
 
